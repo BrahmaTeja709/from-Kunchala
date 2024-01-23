@@ -13,3 +13,5 @@ The food is really yummy and **authentic**. It is always fresh unlike many other
 * ganesh
 * gowtham
 * Teja
+
+[This is mymedia](https://github.com/BrahmaTeja709/from-Kunchala/edit/main/MyMedia.md)
