@@ -12,4 +12,4 @@ The food is really yummy and **authentic**. It is always fresh unlike many other
 - Bapatla
 - Ongole
 
-This is my media(https://github.com/BrahmaTeja709/from-Kunchala/blob/main/MyMedia.md)
+This is my media(MyMedia.md)
