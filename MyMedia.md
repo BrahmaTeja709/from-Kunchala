@@ -21,3 +21,12 @@ This table gives details about my favourite songs
 > Amateurs sit and wait for inspiration, the rest of us just get up and go to work. – *Stephen King*
 >
 > Self-awareness and self-love matter. Who we are is how we lead. – *Brene Brown*
+
+---
+
+## Code Fencing
+Create a virtual environment in Python to manage dependencies.
+
+python -m venv projectnamevenv
+
+Link to the snippet source https://code.pieces.app/collections/python
