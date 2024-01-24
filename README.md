@@ -3,9 +3,10 @@
 The food is really yummy and **authentic**. It is always fresh unlike many other **indian** restaurents.I would definitely recommended to anyone looking for **good Indian food**.
 
 --- 
-## Menu Bar
+## Menu Items
 1. biriyani
 5. Chicken Lolipop
 6. Egg Dosa
 
-
+---
+## 
