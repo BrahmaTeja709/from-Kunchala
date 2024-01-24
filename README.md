@@ -8,5 +8,3 @@ The food is really yummy and **authentic**. It is always fresh unlike many other
 5. Chicken Lolipop
 6. Egg Dosa
 
----
-## 
