@@ -15,3 +15,9 @@ This table gives details about my favourite songs
 | Rowdy baby | Love song | Yuvan shankar raja |
 | Oru vidha aasai | Sad song | Chandrabose |
 | Pove po | Love failure song | Anirudh |
+---
+## Quotes
+
+> Amateurs sit and wait for inspiration, the rest of us just get up and go to work. – * Stephen King *
+>
+> Self-awareness and self-love matter. Who we are is how we lead. – * Brene Brown *
