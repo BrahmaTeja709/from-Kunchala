@@ -3,15 +3,9 @@
 The food is really yummy and **authentic**. It is always fresh unlike many other **indian** restaurents.I would definitely recommended to anyone looking for **good Indian food**.
 
 --- 
-# Orderderd list
+## Menu Bar
 1. biriyani
-3. food
-5. ganesh
-7. Teja
----
-## Unordered list
-* ganesh
-* gowtham
-* Teja
+5. Chicken Lolipop
+6. Egg Dosa
 
-[This is mymedia](https://github.com/BrahmaTeja709/from-Kunchala/edit/main/MyMedia.md)
+
