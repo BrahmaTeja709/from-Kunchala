@@ -1,6 +1,3 @@
-# Ganesh
-
-this is ganesh worked as a salesforce developer in Deloitte and studing in Northwest missouri state university and there is on cmapus jobs here.
-
-![Prabhas](prabhas.jpg)
-![anushka](anushka.jpg)
+# Kunchala Brahma Teja
+There is a song in my childhood named as donu donu and the movie name was Maari which is really a good song in my childhood i really enjoyed while listening this song.
+![brahmateja](brahmateja.jpg)
